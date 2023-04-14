@@ -1,16 +1,186 @@
 # 武器库
 
+为开发人员精心策划的武器库列表。
+
 ## 目录
 
-- [真棒](#真棒)
-- [书籍](#书籍)
-- [面试](#面试)
-- [前端开发](#前端开发)
-- [后端开发](#后端开发)
-- [数据库](#数据库)
-- [云原生](#云原生)
-- [静态站点](#静态站点)
-- [科技公司](#科技公司)
+- [武器库](#武器库)
+  - [前端开发](#前端开发)
+  - [后端开发](#后端开发)
+  - [移动开发](#移动开发)
+  - [深度学习](#深度学习)
+  - [数据库](#数据库)
+  - [数据可视化](#数据可视化)
+  - [云原生](#云原生)
+  - [测试](#测试)
+  - [静态网站生成器](#静态网站生成器)
+  - [其他](#其他)
+- [资源](#资源)
+  - [真棒](#真棒)
+  - [书籍](#书籍)
+  - [面试](#面试)
+
+## 前端开发
+
+### Angular
+
+- [Angular](https://github.com/angular/angular) - 现代 Web 开发平台。
+  - [CLI](https://github.com/angular/angular-cli) - 命令行工具。
+  - [Components](https://github.com/angular/components) - 组件库。
+
+### React
+
+- [React](https://github.com/facebook/react) - 构建用户界面的 JavaScript 库。
+  - [React Native](https://github.com/facebook/react-native) - 使用 React 构建原生应用。
+  - [Docusaurus](https://github.com/facebook/docusaurus) - 易于维护的开源文档网站。
+- [Next](https://github.com/vercel/next.js) - React 应用开发框架。
+- [MUI](https://github.com/mui/material-ui) - React 组件库，它实现了 Google 的 Material Design。
+- [Ant Design](https://github.com/ant-design/ant-design) - 企业级 UI 设计语言和 React 组件库。
+- [Gatsby](https://github.com/gatsbyjs/gatsby) - 使用 React 构建现代网站。
+
+### Vue
+
+- [Vue](https://github.com/vuejs/core) - 渐进式 JavaScript 框架。
+  - [Router](https://github.com/vuejs/router) - 路由。
+  - [Pinia](https://github.com/vuejs/pinia) - 状态管理。
+  - [Devtools](https://github.com/vuejs/devtools) - 浏览器开发工具扩展。
+  - [VitePress](https://github.com/vuejs/vitepress) - Vite & Vue 驱动的静态站点生成器。
+- [Vite](https://github.com/vitejs/vite) - 下一代前端工具。
+- [VueUse](https://github.com/vueuse/vueuse) - 基于 Vue 组合式 API 的实用工具集。
+- [Nuxt](https://github.com/nuxt/nuxt) - 直观的 Web 框架。
+- [Vuetify](https://github.com/vuetifyjs/vuetify) - Vue 组件框架。
+- [Element Plus](https://github.com/element-plus/element-plus) - Vue UI 框架。
+- [Ant Design Vue](https://github.com/vueComponent/ant-design-vue) - 基于 Ant Design 和 Vue 的企业级 UI 组件。
+- [Naive UI](https://github.com/tusen-ai/naive-ui) - Vue 组件库。
+- [uni-app](https://github.com/dcloudio/uni-app) - 使用 Vue 的跨平台框架。
+- [Vant](https://github.com/youzan/vant) - 轻量、可定制的移动端 Vue 组件库。
+- [Vue Storefront](https://github.com/vuestorefront/vue-storefront) - 任何电子商务的前端。
+- Vue-Admin
+  - [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 基于 Vue + Gin 搭建的开发基础平台。
+  - [vue-admin-better](https://github.com/chuzhixin/vue-admin-better) - Vue 后台管理。
+
+### Svelte
+
+- [Svelte](https://github.com/sveltejs/svelte) - 构建用户界面的全新方法。
+  - [Kit](https://github.com/sveltejs/kit) - 套件。
+
+### Solid
+
+- [Solid](https://github.com/solidjs/solid) - 声明式、高效且灵活的 JavaScript 库。
+
+### Bootstrap
+
+- [Bootstrap](https://github.com/twbs/bootstrap) - 最流行的 HTML、CSS 和 JavaScript 框架。
+  - [Icons](https://github.com/twbs/icons) - 官方 SVG 图标库。
+- [Tabler](https://github.com/tabler/tabler) - 基于 Bootstrap 构建的 UI 工具包。
+  - [Icons](https://github.com/tabler/tabler-icons) - Tabler SVG 图标库。
+- [MDB](https://github.com/mdbootstrap/mdb-ui-kit) - Bootstrap & Material Design UI KIT。
+- [Bootswatch](https://github.com/thomaspark/bootswatch) - Bootstrap 主题。
+
+### Bulma
+
+- [Bulma](https://github.com/jgthms/bulma) - 基于 Flexbox 的现代 CSS 框架。
+- [Bulmaswatch](https://github.com/jenil/bulmaswatch) - Bulma 主题。
+
+## 后端开发
+
+### PHP
+
+- [Laravel](https://github.com/laravel/laravel) - 工匠级 Web 框架。
+  - [Debugbar](https://github.com/barryvdh/laravel-debugbar) - Laravel 调试栏。
+  - [IDE Helper](https://github.com/barryvdh/laravel-ide-helper) - Laravel IDE 助手。
+  - [Modules](https://github.com/nWidart/laravel-modules) - Laravel 模块管理。
+  - [Tenancy](https://github.com/archtechx/tenancy) - Laravel 多租户。
+  - [Stats](https://github.com/stefanzweifel/laravel-stats) - Laravel 统计。
+- [Swoole](https://github.com/swoole/swoole-src) - PHP 协程框架。
+  - [Hyperf](https://github.com/hyperf/hyperf) - 高性能的企业级协程框架。
+- [Workerman](https://github.com/walkor/workerman) - 高性能 PHP 应用容器。
+  - [webman](https://github.com/walkor/webman) - 超高性能可扩展 PHP 框架。
+- [RoadRunner](https://github.com/roadrunner-server/roadrunner) - 高性能 PHP 应用服务器。
+- [Symfony](https://github.com/symfony/symfony) - 高性能 Web 框架。
+- [Phalcon](https://github.com/phalcon/cphalcon) - 高性能 PHP 框架作为 C 扩展提供。
+- [CodeIgniter](https://github.com/bcit-ci/CodeIgniter) - 具有强大功能的小框架。
+- [Yii](https://github.com/yiisoft/yii2) - 快速、安全、高效的 Web 框架。
+- [Slim](https://github.com/slimphp/Slim) - 微框架。
+- [CakePHP](https://github.com/cakephp/cakephp) - 快速开发框架。
+- [ReactPHP](https://github.com/reactphp/reactphp) - 事件驱动库。
+- [AMPHP](https://github.com/amphp/amp) - 事件驱动库。
+- [Composer](https://github.com/composer/composer) - 依赖管理工具。
+- [Guzzle](https://github.com/guzzle/guzzle) - 可扩展的 HTTP 客户端。
+- [PHPUnit](https://github.com/sebastianbergmann/phpunit) - 单元测试框架。
+- [Deployer](https://github.com/deployphp/deployer) - 部署工具。
+- [EasyWeChat](https://github.com/w7corp/easywechat) - 微信 SDK。
+- [Pay](https://github.com/yansongda/pay) - 支付 SDK。
+
+### Go
+
+- [Go](https://github.com/golang/go) - Go 语言。
+- [Gin](https://github.com/gin-gonic/gin) - 最快的全功能 Web 框架。
+- [GORM](https://github.com/go-gorm/gorm) - 神奇的 ORM 库。
+- [Go kit](https://github.com/go-kit/kit) - 微服务的标准库。
+- [go-zero](https://github.com/zeromicro/go-zero) - 带有 cli 工具的云原生微服务框架。
+- [Kratos](https://github.com/go-kratos/kratos) - 云原生时代的终极微服务框架。
+- [Go Micro](https://github.com/go-micro/go-micro) - 微服务框架。
+- [GoFrame](https://github.com/gogf/gf) - 模块化、高性能、企业级的应用开发框架。
+- [Jupiter](https://github.com/douyu/jupiter) - 面向治理的微服务框架。
+- [CloudWeGo](https://github.com/cloudwego) - 构建企业级云原生架构。
+- [Colly](https://github.com/gocolly/colly) - 爬虫框架。
+- [Crawlab](https://github.com/crawlab-team/crawlab) - 分布式爬虫管理平台。
+- [Gorse](https://github.com/gorse-io/gorse) - 推荐系统。
+
+### Python
+
+- [Django](https://github.com/django/django) - 完美主义者的 Web 框架。
+- [Flask](https://github.com/pallets/flask) - 微框架。
+- [FastAPI](https://github.com/tiangolo/fastapi) - 现代、高性能的 Web 框架。
+- [Scrapy](https://github.com/scrapy/scrapy) - 爬虫框架。
+- [VNPY](https://github.com/vnpy/vnpy) - 量化交易平台开发框架。
+
+### Rust
+
+- [Rust](https://github.com/rust-lang/rust) - Rust 语言。
+- [Deno](https://github.com/denoland/deno) - 简单、安全的 JavaScript 运行环境。
+- [Tauri](https://github.com/tauri-apps/tauri) - 构建桌面应用程序。
+- [Meilisearch](https://github.com/meilisearch/meilisearch) - 闪电般的搜索引擎。
+- [Rocket](https://github.com/SergioBenitez/Rocket) - 简单、快速、类型安全的 Web 框架。
+
+<!-- ### Java -->
+
+## 移动开发
+
+- [Flutter](https://github.com/flutter/flutter) - 构建跨平台应用。
+
+## 深度学习
+
+- [TensorFlow](https://github.com/tensorflow/tensorflow) - 端到端机器学习平台。
+- [PyTorch](https://github.com/pytorch/pytorch) - 深度学习框架。
+- [OpenCV](https://github.com/opencv/opencv) - 计算机视觉库。
+
+## 数据库
+
+<!-- MySQL、PostgreSQL、MongoDB、Redis、Elasticsearch -->
+
+## 数据可视化
+
+<!-- d3js、chartjs、canvasjs、kibana、grafana -->
+
+## 云原生
+
+<!-- ### Docker -->
+
+- [Kubernetes](https://github.com/kubernetes/kubernetes) - 容器编排引擎。
+
+## 测试
+
+- [Cypress](https://github.com/cypress-io/cypress) - 新一代前端测试框架。
+
+## 静态网站生成器
+
+## 其他
+
+<!-- Linux、Git -->
+
+# 资源
 
 ## 真棒
 
@@ -67,132 +237,6 @@
 - [Interview Questions](https://github.com/DopplerHQ/awesome-interview-questions) - 面试问题。
 - [Remote Job](https://github.com/lukasz-madon/awesome-remote-job) - 远程工作。
 - [CV](https://github.com/posquit0/Awesome-CV) - 简历模板。
-
-## 前端开发
-
-### Vue
-
-- [Vue](https://github.com/vuejs/core) - 渐进式 JavaScript 框架。
-  - [Vite](https://github.com/vitejs/vite) - 下一代前端工具。
-  - [Router](https://github.com/vuejs/router) - 路由。
-  - [Pinia](https://github.com/vuejs/pinia) - 状态管理。
-  - [Devtools](https://github.com/vuejs/devtools) - 浏览器开发调试工具。
-- [Uni App](https://github.com/dcloudio/uni-app) - 使用 Vue 的跨平台框架。
-- [Vuetify](https://github.com/vuetifyjs/vuetify) - Vue 组件框架。
-- [Element Plus](https://github.com/element-plus/element-plus) - 一个 Vue 3 UI 库。
-- [Ant Design Vue](https://github.com/vueComponent/ant-design-vue) - 基于 Ant Design 和 Vue 的企业级 UI 组件。
-- [Vueuse](https://github.com/vueuse/vueuse) - 基于 Composition API 的工具集。
-- [Naive UI](https://github.com/tusen-ai/naive-ui) - 一个 Vue 3 组件库。
-- [Vue Storefront](https://github.com/vuestorefront/vue-storefront) - 构建电子商务的前端。
-
-### Vue Admin
-
-- [Gin Vue Admin](https://github.com/flipped-aurora/gin-vue-admin) - 基于 vite + vue3 + gin 搭建的开发基础平台。
-- [Vue Admin Better](https://github.com/chuzhixin/vue-admin-better) - Vue 后台管理。
-
-### React
-
-- [React](https://github.com/facebook/react) - 一个用于构建用户界面的 JavaScript 库。
-- [MUI](https://github.com/mui/material-ui) - React 组件库。
-- [Ant Design](https://github.com/ant-design/ant-design) - React 组件库。
-
-### Angular
-
-- [Angular](https://github.com/angular/angular) - 现代 Web 开发平台。
-  - [Cli](https://github.com/angular/angular-cli) - 命令行工具。
-  - [Components](https://github.com/angular/components) - 组件库。
-
-### Bootstrap
-
-- [Bootstrap](https://github.com/twbs/bootstrap) - 最流行的 HTML、CSS 和 JavaScript 框架。
-  - [Icons](https://github.com/twbs/icons) - 图标库。
-- [Tabler](https://github.com/tabler/tabler) - 基于 Bootstrap 构建的 UI 工具包。
-- [MDB UI KIT](https://github.com/mdbootstrap/mdb-ui-kit) - 基于 Bootstrap 构建的材料设计 UI 工具包。
-
-<!-- ### HTML/CSS
-
-### JavaScript
-
-### TypeScript -->
-
-## 后端开发
-
-### PHP
-
-- [Laravel](https://github.com/laravel/laravel) - Laravel 框架。
-  - [Laravel Debugbar](https://github.com/barryvdh/laravel-debugbar) - Laravel 调试栏。
-  - [Laravel IDE Helper](https://github.com/barryvdh/laravel-ide-helper) - Laravel IDE 助手。
-- [Symfony](https://github.com/symfony/symfony) - Symfony 框架。
-- [Guzzle](https://github.com/guzzle/guzzle) - HTTP 客户端。
-- [PHPUnit](https://github.com/sebastianbergmann/phpunit) - 单元测试框架。
-- [CodeIgniter](https://github.com/bcit-ci/CodeIgniter) - CodeIgniter 框架。
-- [Swoole](https://github.com/swoole/swoole-src) - 协程框架。
-  - [Hyperf](https://github.com/hyperf/hyperf) - 高性能的企业级协程框架。
-- [Yii](https://github.com/yiisoft/yii2) - Yii 框架。
-- [Slim](https://github.com/slimphp/Slim) - 微框架。
-- [Phalcon](https://github.com/phalcon/cphalcon) - Phalcon 框架，作为 C 扩展提供。
-- [Workerman](https://github.com/walkor/workerman) - 高性能应用容器。
-- [EasyWeChat](https://github.com/w7corp/easywechat) - 微信 SDK。
-- [Deployer](https://github.com/deployphp/deployer) - 部署工具。
-- [ReactPHP](https://github.com/reactphp/reactphp) - 事件驱动库。
-- [RoadRunner](https://github.com/roadrunner-server/roadrunner) - 高性能应用程序服务器、负载均衡器和进程管理器。
-- [Pay](https://github.com/yansongda/pay) - 支付 SDK。
-- [AMPHP](https://github.com/amphp/amp) - 事件驱动库。
-
-### Go
-
-- [Go](https://github.com/golang/go) - Go 语言。
-- [Gin](https://github.com/gin-gonic/gin) - 最快的全栈 Web 框架。
-- [GORM](https://github.com/go-gorm/gorm) - GORM 库。
-- [kit](https://github.com/go-kit/kit) - 微服务的标准库。
-- [Go Zero](https://github.com/zeromicro/go-zero) - 带有 cli 工具的云原生微服务框架。
-- [Kratos](https://github.com/go-kratos/kratos) - 云原生时代的终极微服务框架。
-- [Go Micro](https://github.com/go-micro/go-micro) - 微服务框架。
-- [Go Frame](https://github.com/gogf/gf) - 一款模块化、高性能、企业级的应用开发框架。
-
-### Python
-
-- [Django](https://github.com/django/django) - 完美的 Web 框架。
-- [Flask](https://github.com/pallets/flask) - 微框架。
-- [FastAPI](https://github.com/tiangolo/fastapi) - 现代、高性能的 Web 框架。
-- [Scrapy](https://github.com/scrapy/scrapy) - 爬虫框架。
-
-### Rust
-
-- [Rust](https://github.com/rust-lang/rust) - Rust 语言。
-- [Deno](https://github.com/denoland/deno) - 一个安全的 JavaScript 和 TypeScript 运行时环境。
-- [Tauri](https://github.com/tauri-apps/tauri) - 构建桌面应用程序。
-- [Meilisearch](https://github.com/meilisearch/meilisearch) - 闪电般的搜索引擎。
-
-## 数据库
-
-<!-- ### MySQL
-
-### PostgreSQL
-
-### MongoDB -->
-
-## 云原生
-
-### Docker
-
-### Kubernetes
-
-- [Kubernetes](https://github.com/kubernetes/kubernetes) - 容器编排引擎。
-
-## 静态站点
-
-- [Next](https://github.com/vercel/next.js) - React 框架。
-- [Hugo](https://github.com/gohugoio/hugo) - 最快的网站构建框架。
-- [Gatsby](https://github.com/gatsbyjs/gatsby) - 使用 React 构建现代网站。
-- [Nuxt](https://github.com/nuxt/nuxt.js) - 使用 Vue 创建类型安全、高性能和生产级的全栈 Web 应用程序和网站。
-- [Docusaurus](https://github.com/facebook/docusaurus) - 易于维护的开源文档网站。
-- [Hexo](https://github.com/hexojs/hexo) - 一个快速，简单和强大的博客框架。
-- [Astro](https://github.com/withastro/astro) - 专为速度而设计的全栈 Web 框架。
-- [Docsify](https://github.com/docsifyjs/docsify) - 一个神奇的文档站点生成器。
-- [VitePress](https://github.com/vuejs/vitepress) - Vite & Vue 驱动的静态站点生成器。
-
-## 科技公司
 
 ## GitHub
 
