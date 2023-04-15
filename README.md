@@ -9,15 +9,15 @@
   - [后端开发](#后端开发)
   - [移动开发](#移动开发)
   - [深度学习](#深度学习)
+  - [算法](#算法)
   - [数据库](#数据库)
   - [数据可视化](#数据可视化)
   - [云原生](#云原生)
-  - [测试](#测试)
-  - [静态网站生成器](#静态网站生成器)
   - [其他](#其他)
 - [资源](#资源)
   - [真棒](#真棒)
   - [书籍](#书籍)
+  - [指南](#指南)
   - [面试](#面试)
 
 ## 前端开发
@@ -33,6 +33,8 @@
 - [React](https://github.com/facebook/react) - 构建用户界面的 JavaScript 库。
   - [React Native](https://github.com/facebook/react-native) - 使用 React 构建原生应用。
   - [Docusaurus](https://github.com/facebook/docusaurus) - 易于维护的开源文档网站。
+- [React Router](https://github.com/remix-run/react-router) - 路由。  
+- [Redux](https://github.com/reduxjs/redux) - 状态管理。
 - [Next](https://github.com/vercel/next.js) - React 应用开发框架。
 - [MUI](https://github.com/mui/material-ui) - React 组件库，它实现了 Google 的 Material Design。
 - [Ant Design](https://github.com/ant-design/ant-design) - 企业级 UI 设计语言和 React 组件库。
@@ -56,17 +58,18 @@
 - [Vant](https://github.com/youzan/vant) - 轻量、可定制的移动端 Vue 组件库。
 - [Vue Storefront](https://github.com/vuestorefront/vue-storefront) - 任何电子商务的前端。
 - Vue-Admin
-  - [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 基于 Vue + Gin 搭建的开发基础平台。
-  - [vue-admin-better](https://github.com/chuzhixin/vue-admin-better) - Vue 后台管理。
-
-### Svelte
-
-- [Svelte](https://github.com/sveltejs/svelte) - 构建用户界面的全新方法。
-  - [Kit](https://github.com/sveltejs/kit) - 套件。
-
-### Solid
-
-- [Solid](https://github.com/solidjs/solid) - 声明式、高效且灵活的 JavaScript 库。
+  - [vue-vben-admin](https://github.com/vbenjs/vue-vben-admin)
+  - [vue-manage-system](https://github.com/lin-xin/vue-manage-system)
+  - [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin)
+  - [vue-admin-better](https://github.com/chuzhixin/vue-admin-better)
+  - [go-admin](https://github.com/go-admin-team/go-admin)
+  - [vue-pure-admin](https://github.com/pure-admin/vue-pure-admin)
+  - [Geeker-Admin](https://github.com/HalseySpicy/Geeker-Admin)
+  - [soybean-admin](https://github.com/honghuangdc/soybean-admin)
+  - [vue3-admin](https://github.com/newbee-ltd/vue3-admin)
+  - [vue-element-plus-admin](https://github.com/kailong321200875/vue-element-plus-admin)
+  - [vue-next-admin](https://github.com/lyt-Top/vue-next-admin)
+  - [go-ldap-admin](https://github.com/eryajf/go-ldap-admin)
 
 ### Bootstrap
 
@@ -76,11 +79,6 @@
   - [Icons](https://github.com/tabler/tabler-icons) - Tabler SVG 图标库。
 - [MDB](https://github.com/mdbootstrap/mdb-ui-kit) - Bootstrap & Material Design UI KIT。
 - [Bootswatch](https://github.com/thomaspark/bootswatch) - Bootstrap 主题。
-
-### Bulma
-
-- [Bulma](https://github.com/jgthms/bulma) - 基于 Flexbox 的现代 CSS 框架。
-- [Bulmaswatch](https://github.com/jenil/bulmaswatch) - Bulma 主题。
 
 ## 后端开发
 
@@ -134,7 +132,8 @@
 - [Flask](https://github.com/pallets/flask) - 微框架。
 - [FastAPI](https://github.com/tiangolo/fastapi) - 现代、高性能的 Web 框架。
 - [Scrapy](https://github.com/scrapy/scrapy) - 爬虫框架。
-- [VNPY](https://github.com/vnpy/vnpy) - 量化交易平台开发框架。
+- [FaceSwap](https://github.com/deepfakes/faceswap) - 换脸。
+- [VNPY](https://github.com/vnpy/vnpy) - 量化交易平台。
 
 ### Rust
 
@@ -144,7 +143,13 @@
 - [Meilisearch](https://github.com/meilisearch/meilisearch) - 闪电般的搜索引擎。
 - [Rocket](https://github.com/SergioBenitez/Rocket) - 简单、快速、类型安全的 Web 框架。
 
-<!-- ### Java -->
+### Java
+
+- [mall](https://github.com/macrozheng/mall) - 电商系统。
+- [newbee-mall](https://github.com/newbee-ltd/newbee-mall) - 电商系统。
+- [Hutool](https://github.com/dromara/hutool) - 工具类库。
+- [Sa-Token](https://github.com/dromara/Sa-Token) - 轻量级权限认证框架。
+- [WxJava](https://github.com/Wechat-Group/WxJava) - 微信 SDK。
 
 ## 移动开发
 
@@ -153,32 +158,40 @@
 ## 深度学习
 
 - [TensorFlow](https://github.com/tensorflow/tensorflow) - 端到端机器学习平台。
+- [Transformers](https://github.com/huggingface/transformers) - 最先进的机器学习。
 - [PyTorch](https://github.com/pytorch/pytorch) - 深度学习框架。
+- [Keras](https://github.com/keras-team/keras) - 人类深度学习。
 - [OpenCV](https://github.com/opencv/opencv) - 计算机视觉库。
+
+## 算法
+
+- [JavaScript Algorithms](https://github.com/trekhleb/javascript-algorithms) - JavaScript 算法和数据结构。
+- [Python Algorithms](https://github.com/TheAlgorithms/Python) - 所有算法都用 Python 实现。
+- [Java Algorithms](https://github.com/TheAlgorithms/Java) - 所有算法都用 Java 实现。
+- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路。
 
 ## 数据库
 
-<!-- MySQL、PostgreSQL、MongoDB、Redis、Elasticsearch -->
+- [MySQL](https://github.com/mysql) - 最受欢迎的开源数据库。
+- [PostgreSQL](https://github.com/postgres) - 最先进的开源数据库。
+- [MongoDB](https://github.com/mongodb/mongo) - 分布式文件存储的数据库。
+- [Redis](https://github.com/redis/redis) - 内存数据库。
+- [Elasticsearch](https://github.com/elastic/elasticsearch) - 分布式搜索引擎。
 
 ## 数据可视化
 
-<!-- d3js、chartjs、canvasjs、kibana、grafana -->
+- [D3](https://github.com/d3/d3) - 数据驱动文档。
+- [Chart](https://github.com/chartjs/Chart.js) - 简单灵活的 JavaScript 图表库。
+- [Grafana](https://github.com/grafana/grafana) - 监控仪表系统。
 
 ## 云原生
 
-<!-- ### Docker -->
-
 - [Kubernetes](https://github.com/kubernetes/kubernetes) - 容器编排引擎。
-
-## 测试
-
-- [Cypress](https://github.com/cypress-io/cypress) - 新一代前端测试框架。
-
-## 静态网站生成器
 
 ## 其他
 
-<!-- Linux、Git -->
+- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - 免费学习编码。
+- [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap) - 开发人员路线图。
 
 # 资源
 
@@ -223,23 +236,33 @@
 - [Solidity](https://github.com/bkrem/awesome-solidity) - 智能合约。
 - [Test Automation](https://github.com/atinfo/awesome-test-automation) - 测试自动化。
 - [RESTful API](https://github.com/marmelab/awesome-rest) - RESTful API 资源。
+- [free-for.dev](https://github.com/ripienaar/free-for-dev) - 为开发人员提供免费产品的列表。
 
 ## 书籍
 
-- [Free Programming Books](https://github.com/EbookFoundation/free-programming-books) - 免费提供的编程书籍。
+- [Free Programming Books](https://github.com/EbookFoundation/free-programming-books) - 免费编程书籍。
 - [System Design Primer](https://github.com/donnemartin/system-design-primer) - 系统设计入门。
-- [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x) - 构建您喜欢的技术。
+- [Build your own X](https://github.com/codecrafters-io/build-your-own-x) - 构建您喜欢的技术。
+- [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) - 关于 JavaScript 的丛书。
+- [D2L](https://github.com/d2l-ai/d2l-zh) - 动手学深度学习。
+- [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) - 如何使用 golang 构建网络。
+- [The Way to Go](https://github.com/unknwon/the-way-to-go_ZH_CN) - Go 入门指南。
+
+## 指南
+
+- [Airbnb JavaScript](https://github.com/airbnb/javascript) - Airbnb JavaScript 风格指南。
+- [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices) - Node.js 最佳实践。
+- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - JavaScript 的干净代码。
 
 ## 面试
 
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university) - 编程面试大学。
 - [CS Notes](https://github.com/CyC2018/CS-Notes) - 技术面试必备基础知识。
+- [JavaGuide](https://github.com/Snailclimb/JavaGuide) - Java 学习 + 面试指南。
+- [advanced-java](https://github.com/doocs/advanced-java) - 互联网 Java 工程师进阶知识完全扫盲。
+- [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook) - 技术面试手册。
+- [Front-end Developer Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - 前端开发人员面试问题。
+- [Front End Interview Handbook](https://github.com/yangshun/front-end-interview-handbook) - 前端面试手册。
 - [Interview Questions](https://github.com/DopplerHQ/awesome-interview-questions) - 面试问题。
 - [Remote Job](https://github.com/lukasz-madon/awesome-remote-job) - 远程工作。
 - [CV](https://github.com/posquit0/Awesome-CV) - 简历模板。
-
-## GitHub
-
-- [Hello GitHub](https://github.com/521xueweihan/HelloGitHub) - 分享 GitHub 上有趣、入门级的开源项目。
-- [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - Git 和 GitHub 的炫酷功能列表。
-- [GitHub Actions](https://github.com/sdras/awesome-actions) - GitHub 操作。
