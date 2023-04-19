@@ -124,8 +124,8 @@
 - [EasyWeChat](https://github.com/w7corp/easywechat) - 微信 SDK。
 - [Pay](https://github.com/yansongda/pay) - 支付 SDK。
 - [OpenAI](https://github.com/openai-php/client) - OpenAI PHP 客户端。
+- [GraphQL-PHP](https://github.com/webonyx/graphql-php) - 实现 GraphQL 规范。
 - [MoChat](https://github.com/mochat-cloud/mochat) - 企业微信应用开发框架。
-- [course-tencent-cloud](https://github.com/xiaochong0302/course-tencent-cloud) - 酷瓜云课堂。
 
 ### Go
 
@@ -140,6 +140,7 @@
 - [GoFrame](https://github.com/gogf/gf) - 模块化、高性能、企业级的应用开发框架。
 - [Jupiter](https://github.com/douyu/jupiter) - 面向治理的微服务框架。
 - [CloudWeGo](https://github.com/cloudwego) - 构建企业级云原生架构。
+- [Goa](https://github.com/goadesign/goa) - 微服务框架。
 - [Colly](https://github.com/gocolly/colly) - 爬虫框架。
 - [Crawlab](https://github.com/crawlab-team/crawlab) - 分布式爬虫管理平台。
 - [Gorse](https://github.com/gorse-io/gorse) - 推荐系统。
@@ -150,6 +151,10 @@
 - [Cloudreve](https://github.com/cloudreve/Cloudreve) - 支持多家云存储的文件管理系统。
 - [DTM](https://github.com/dtm-labs/dtm) - 分布式事务管理器。
 - [CasaOS](https://github.com/IceWhaleTech/CasaOS) - 家庭云。
+- [YoMo](https://github.com/yomorun/yomo) - 无服务器流式处理框架。
+- [YAO](https://github.com/YaoApp/yao) - 高性能应用引擎。
+- [Casdoor](https://github.com/casdoor/casdoor) - SSO 平台。
+- [Micro](https://github.com/micro/micro) - API 开发平台。
 
 ### Python
 
@@ -232,7 +237,32 @@
 ## 其他
 
 - [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - 编程训练营。
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) - 基于项目的学习。
 - [Zsh](https://github.com/ohmyzsh/ohmyzsh) - Zsh 终端。
+- [localstack](https://github.com/localstack/localstack) - 云服务模拟器。
+- [Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 克隆热门网站。
+- [funNLP](https://github.com/fighting41love/funNLP) - 最全的中文 NLP 资源库。
+- [bigdata_analyse](https://github.com/TurboWay/bigdata_analyse) - 大数据分析项目。
+- [Diagrams](https://github.com/mingrammer/diagrams) - 绘制云系统架构图。
+- [countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database) - 国家州城市数据库。
+- [Terraform](https://github.com/hashicorp/terraform) - 基础设施工具。
+- [sherlock](https://github.com/sherlock-project/sherlock) - 在社交网络上按用户名搜索社交媒体帐户。
+- API
+  - [public-apis](https://github.com/public-apis/public-apis) - 公共 API。
+  - [free-api](https://github.com/fangzesheng/free-api) - 免费 API。
+  - [graphql-apis](https://github.com/IvanGoncharov/graphql-apis) - 公共 GraphQL API。
+- ChatGPT
+  - [awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。
+  - [awesome-chatgpt-api](https://github.com/reorx/awesome-chatgpt-api) - ChatGPT API。
+  - [awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - ChatGPT 精选列表。
+  - [roomGPT](https://github.com/Nutlope/roomGPT) - 使用 AI 生成房间。
+- Douyin
+  - [TikTokDownload](https://github.com/Johnserf-Seed/TikTokDownload) - 抖音去水印视频下载。
+  - [Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) - 高性能异步抖音 | TikTok 数据爬取工具。
+- IP
+  - [GeoIP2-CN](https://github.com/Hackl0us/GeoIP2-CN) - GeoIP2 数据库。
+  - [china-operator-ip](https://github.com/gaoyifan/china-operator-ip) - 中国运营商 IP 地址库。
+  - [Ip2region](https://github.com/lionsoul2014/ip2region) - 离线 IP 地址管理框架。
 
 # 资源
 
@@ -301,6 +331,8 @@
 - [free-for-dev](https://github.com/ripienaar/free-for-dev) - 免费套餐。
 - [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - 一些对程序员有用的网站。
 - [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - 开发人员的设计资源。
+- [best-of](https://github.com/best-of-lists/best-of) - 各种主题的最佳列表。
+- [go](https://github.com/shockerli/go-awesome) - Go 优秀资源整理。
 
 ## 书籍
 
@@ -341,6 +373,11 @@
 - [easy-tips](https://github.com/TIGERB/easy-tips) - PHPer、Gopher 成长之路。
 - [learn-to-cloud](https://github.com/learntocloud/learn-to-cloud) - 云计算基础知识。
 - [Migration](https://github.com/phodal/migration) - 系统重构与迁移指南。
+- [WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity) - WTF Solidity 极简入门。
+- [share_ppt](https://github.com/rfyiamcool/share_ppt) - 技术分享 PPT。
+- [from_coder_to_expert](https://github.com/0voice/from_coder_to_expert) - 企业内部 PDF 与 PPT。
+- [HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员做饭指南。
+- [DesignPatternsPHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP) - PHP 设计模式。
 
 ## 指南
 
@@ -401,6 +438,7 @@
 - [skill-icons](https://github.com/tandpfun/skill-icons) - GitHub 自述文件技能图标。
 - [Metrics](https://github.com/lowlighter/metrics) - 信息图表生成器。
 - [Refined GitHub](https://github.com/refined-github/refined-github) - GitHub 界面功能的浏览器扩展。
+- [profileme-dev](https://github.com/danielcranney/profileme-dev) - 创建 GitHub 自述文件。
 
 ## Microsoft
 
