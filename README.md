@@ -32,7 +32,6 @@
   - [Redux](https://github.com/reduxjs/redux) - 状态管理。
 - [React Native](https://github.com/facebook/react-native) - 使用 React 构建原生应用。
 - [Next](https://github.com/vercel/next.js) - React 应用开发框架。
-
 - [MUI](https://github.com/mui/material-ui) - React 组件库，它实现了 Material Design。
 - [Ant Design](https://github.com/ant-design/ant-design) - 企业级 UI 设计语言和 React 组件库。
 - [Chakra UI](https://github.com/chakra-ui/chakra-ui) - 简单、模块化的 UI 组件。
