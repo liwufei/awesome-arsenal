@@ -9,7 +9,7 @@
   - [后端](#后端)
   - [算法](#算法)
   - [人工智能](#人工智能)
-  - [DevOps](#devops)
+  - [云原生](#云原生)
   - [静态站点生成器](#静态站点生成器)
 - [资源](#资源)
   - [真棒](#真棒)
@@ -28,20 +28,85 @@
 #### React
 
 - [React](https://github.com/facebook/react) - 构建用户界面的 JavaScript 库。
+  - [Router](https://github.com/remix-run/react-router) - 路由。
+  - [Redux](https://github.com/reduxjs/redux) - 状态管理。
+- [React Native](https://github.com/facebook/react-native) - 使用 React 构建原生应用。
+- [Next](https://github.com/vercel/next.js) - React 应用开发框架。
+
+- [MUI](https://github.com/mui/material-ui) - React 组件库，它实现了 Material Design。
+- [Ant Design](https://github.com/ant-design/ant-design) - 企业级 UI 设计语言和 React 组件库。
+- [Chakra UI](https://github.com/chakra-ui/chakra-ui) - 简单、模块化的 UI 组件。
 
 #### Vue
 
-#### Bootstrap
+- [Vue](https://github.com/vuejs/core) - 渐进式 JavaScript 框架。
+  - [Router](https://github.com/vuejs/router) - 路由。
+  - [Pinia](https://github.com/vuejs/pinia) - 状态管理。
+- [Vite](https://github.com/vitejs/vite) - 下一代前端工具。
+- [VueUse](https://github.com/vueuse/vueuse) - 基于 Vue 组合式 API 的实用工具集。
+- [Nuxt](https://github.com/nuxt/nuxt) - Vue 应用开发框架。
 
-#### Layui
+- [uni-app](https://github.com/dcloudio/uni-app) - 使用 Vue 的跨平台框架。
+- [Vuetify](https://github.com/vuetifyjs/vuetify) - Vue 组件框架。
+- [Vant](https://github.com/youzan/vant) - 轻量、可定制的移动端 Vue 组件库。
+- [Element Plus](https://github.com/element-plus/element-plus) - Vue UI 框架。
+- [Ant Design Vue](https://github.com/vueComponent/ant-design-vue) - 基于 Ant Design 和 Vue 的企业级 UI 组件。
+- [Naive UI](https://github.com/tusen-ai/naive-ui) - Vue 组件库。
+- [Vue Storefront](https://github.com/vuestorefront/vue-storefront) - 任何电子商务的前端。
 
+#### UI
+
+- [Bootstrap](https://github.com/twbs/bootstrap) - 最流行的 HTML、CSS 和 JavaScript 框架。
+  - [Tabler](https://github.com/tabler/tabler) - 基于 Bootstrap 构建的 UI 工具包。
+  - [MDB](https://github.com/mdbootstrap/mdb-ui-kit) - Bootstrap & Material Design UI KIT。
+  - [Bootswatch](https://github.com/thomaspark/bootswatch) - Bootstrap 主题。
 - [Layui](https://github.com/layui/layui) - 极简模块化 Web UI 组件库。
 
 ### 后端
 
 #### PHP
 
+- [Laravel](https://github.com/laravel/laravel) - 工匠级 Web 框架。
+  - [jwt-auth](https://github.com/tymondesigns/jwt-auth) - 身份验证。
+  - [laravel-debugbar](https://github.com/barryvdh/laravel-debugbar) - Laravel 调试栏。
+  - [laravel-ide-helper](https://github.com/barryvdh/laravel-ide-helper) - Laravel IDE 助手。
+  - [laravel-modules](https://github.com/nWidart/laravel-modules) - Laravel 模块管理。
+  - [laravel-stats](https://github.com/stefanzweifel/laravel-stats) - Laravel 统计。
+  - [laravel-orion](https://github.com/tailflow/laravel-orion) - 创建 REST API。
+  - [tenancy](https://github.com/archtechx/tenancy) - 多租户。
+  - [tenancy](https://github.com/tenancy/tenancy) - 多租户。
+- [Symfony](https://github.com/symfony/symfony) - 高性能 Web 框架。
+- [CodeIgniter](https://github.com/bcit-ci/CodeIgniter) - 具有强大功能的小框架。
+- [Swoole](https://github.com/swoole/swoole-src) - PHP 协程框架。
+  - [Hyperf](https://github.com/hyperf/hyperf) - 高性能的企业级协程框架。
+  - [EasySwoole](https://github.com/easy-swoole/easyswoole) - 企业级分布式协程框架。
+- [Yii](https://github.com/yiisoft/yii2) - 快速、安全、高效的 Web 框架。
+- [Slim](https://github.com/slimphp/Slim) - 微框架。
+- [Phalcon](https://github.com/phalcon/cphalcon) - 高性能 PHP 框架作为 C 扩展提供。
+- [Workerman](https://github.com/walkor/workerman) - 高性能 PHP 应用容器。
+  - [webman](https://github.com/walkor/webman) - 超高性能可扩展 PHP 框架。
+- [CakePHP](https://github.com/cakephp/cakephp) - 快速开发框架。
+- [ReactPHP](https://github.com/reactphp/reactphp) - 事件驱动库。
+- [AMPHP](https://github.com/amphp/amp) - 事件驱动库。
+- [RoadRunner](https://github.com/roadrunner-server/roadrunner) - 高性能 PHP 应用服务器。
+- [FrankenPHP](https://github.com/dunglas/frankenphp) - 现代 PHP 应用服务器。
+
+- [EasyWeChat](https://github.com/w7corp/easywechat) - WeChat SDK。
+- [Pay](https://github.com/yansongda/pay) - Pay SDK。
+- [oauth2-server](https://github.com/thephpleague/oauth2-server) - OAuth Server。
+- [oauth2-client](https://github.com/thephpleague/oauth2-client) - OAuth Client。
+- [openai-client](https://github.com/openai-php/client) - OpenAI Client。
+- [Hybridauth](https://github.com/hybridauth/hybridauth) - 社会化登录。
+- [MoChat](https://github.com/mochat-cloud/mochat) - 企业微信应用开发框架。
+
 #### Python
+
+- [Django](https://github.com/django/django) - 完美主义者的 Web 框架。
+- [Flask](https://github.com/pallets/flask) - 微框架。
+- [FastAPI](https://github.com/tiangolo/fastapi) - 现代、高性能的 Web 框架。
+
+- [Scrapy](https://github.com/scrapy/scrapy) - 爬虫框架。
+- [VNPY](https://github.com/vnpy/vnpy) - 量化交易平台。
 
 #### Go
 
@@ -79,6 +144,12 @@
 
 #### Rust
 
+- [Rust](https://github.com/rust-lang/rust) - Rust 语言。
+- [Deno](https://github.com/denoland/deno) - 简单、安全的 JavaScript 运行环境。
+- [Tauri](https://github.com/tauri-apps/tauri) - 构建桌面应用程序。
+- [Meilisearch](https://github.com/meilisearch/meilisearch) - 闪电般的搜索引擎。
+- [Rocket](https://github.com/SergioBenitez/Rocket) - 简单、快速、类型安全的 Web 框架。
+
 ### 算法
 
 - [TheAlgorithms](https://github.com/TheAlgorithms) - 最大的开源算法库。
@@ -100,8 +171,10 @@
 - [PhotoPrism](https://github.com/photoprism/photoprism) - AI 驱动的照片应用程序。
 - [RoomGPT](https://github.com/Nutlope/roomGPT) - 使用 AI 生成您的梦想房间。
 - [Fay](https://github.com/TheRamU/Fay) - 数字人助理。
+- [FaceSwap](https://github.com/deepfakes/faceswap) - 换脸。
+- [Qbot](https://github.com/UFund-Me/Qbot) - 自动量化交易机器人。
 
-### DevOps
+### 云原生
 
 - [Kubernetes](https://github.com/kubernetes/kubernetes) - 容器编排引擎。
 - [Istio](https://github.com/istio/istio) - 服务网格。
@@ -119,7 +192,11 @@
 ### 静态站点生成器
 
 - [Hugo](https://github.com/gohugoio/hugo) - 世界上最快的网站构建框架。
+- [Gatsby](https://github.com/gatsbyjs/gatsby) - 使用 React 构建现代网站。
+- [Docusaurus](https://github.com/facebook/docusaurus) - 易于维护的开源文档网站。
 - [Hexo](https://github.com/hexojs/hexo) - 快速、简洁且高效的博客框架。
+- [Astro](https://github.com/withastro/astro) - 专为速度而设计的全栈 Web 框架。
+- [VitePress](https://github.com/vuejs/vitepress) - Vite & Vue 驱动的静态站点生成器。
 
 ## 资源
 
@@ -198,6 +275,7 @@
 - [system-design-primer](https://github.com/donnemartin/system-design-primer) - 系统设计入门。
 - [system_architect](https://github.com/xxlllq/system_architect) - 系统架构设计师教程。
 - [migration](https://github.com/phodal/migration) - 系统重构与迁移指南。
+- [SoftwareArchitect](https://github.com/justinamiller/SoftwareArchitect) - 通往软件架构师之路。
 - [design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - 大白话设计模式。
 - [DesignPatternsPHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP) - PHP 设计模式。
 
@@ -218,6 +296,8 @@
 - [GoGuide](https://github.com/coderit666/GoGuide) - Go 学习指南。
 - [Go-SCP](https://github.com/OWASP/Go-SCP) - Go 安全编码实践。
 - [RustBooks](https://github.com/sger/RustBooks) - Rust 书籍。
+- [rust-course](https://github.com/sunface/rust-course) - Rust 圣经。
+- [rust-by-practice](https://github.com/sunface/rust-by-practice) - Rust 实战。
 - [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - 你不知道的 JS。
 - [typescript-book](https://github.com/basarat/typescript-book) - 深入理解 TypeScript。
 - [docker_practice](https://github.com/yeasy/docker_practice) - Docker 技术入门与实战。
@@ -283,6 +363,13 @@
 
 ### 路线图
 
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - 开发人员路线图。
+- [AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - AI 专家路线图。
+- [DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map) - DeFi 开发人员路线图。
+- [DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - DevOps 路线图。
+- [rust-web-developer-roadmap](https://github.com/anshulrgoyal/rust-web-developer-roadmap) - Rust Web 开发人员路线图。
+- [stack-roadmap](https://github.com/easychen/stack-roadmap) - 全栈路线图。
+
 ## 科技公司
 
 ### GitHub
@@ -299,5 +386,18 @@
 - [skill-icons](https://github.com/tandpfun/skill-icons) - GitHub 自述文件技能图标。
 - [Metrics](https://github.com/lowlighter/metrics) - 信息图表生成器。
 - [creative-profile-readme](https://github.com/coderjojo/creative-profile-readme) - GitHub 自述文件集合。
+- [all-contributors](https://github.com/all-contributors/all-contributors) - 表彰所有贡献者。
 
 ### Microsoft
+
+- [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 面向初学者的 Web 开发课程。
+- [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 面向初学者的机器学习课程。
+- [Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) - 面向初学者的数据科学课程。
+- [IoT-For-Beginners](https://github.com/microsoft/IoT-For-Beginners) - 面向初学者的物联网课程。
+- [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 面向初学者的人工智能课程。
+- [ai-edu](https://github.com/microsoft/ai-edu) - 人工智能教育资料。
+- [api-guidelines](https://github.com/microsoft/api-guidelines) - 微软 REST API 指南。
+
+- [Recommenders](https://github.com/microsoft/recommenders) - 推荐系统的最佳实践。
+- [Qlib](https://github.com/microsoft/qlib) - 面向人工智能的量化投资平台。
+- [code-with-engineering-playbook](https://github.com/microsoft/code-with-engineering-playbook) - 工程行动手册。
