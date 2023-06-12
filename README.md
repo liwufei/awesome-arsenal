@@ -44,7 +44,6 @@
 - [Vite](https://github.com/vitejs/vite) - 下一代前端工具。
 - [VueUse](https://github.com/vueuse/vueuse) - 基于 Vue 组合式 API 的实用工具集。
 - [Nuxt](https://github.com/nuxt/nuxt) - Vue 应用开发框架。
-
 - [uni-app](https://github.com/dcloudio/uni-app) - 使用 Vue 的跨平台框架。
 - [Vuetify](https://github.com/vuetifyjs/vuetify) - Vue 组件框架。
 - [Vant](https://github.com/youzan/vant) - 轻量、可定制的移动端 Vue 组件库。
@@ -89,7 +88,6 @@
 - [AMPHP](https://github.com/amphp/amp) - 事件驱动库。
 - [RoadRunner](https://github.com/roadrunner-server/roadrunner) - 高性能 PHP 应用服务器。
 - [FrankenPHP](https://github.com/dunglas/frankenphp) - 现代 PHP 应用服务器。
-
 - [EasyWeChat](https://github.com/w7corp/easywechat) - WeChat SDK。
 - [Pay](https://github.com/yansongda/pay) - Pay SDK。
 - [oauth2-server](https://github.com/thephpleague/oauth2-server) - OAuth Server。
@@ -103,7 +101,6 @@
 - [Django](https://github.com/django/django) - 完美主义者的 Web 框架。
 - [Flask](https://github.com/pallets/flask) - 微框架。
 - [FastAPI](https://github.com/tiangolo/fastapi) - 现代、高性能的 Web 框架。
-
 - [Scrapy](https://github.com/scrapy/scrapy) - 爬虫框架。
 - [VNPY](https://github.com/vnpy/vnpy) - 量化交易平台。
 
@@ -127,7 +124,6 @@
 - [Micro](https://github.com/micro/micro) - API 开发平台。
 - [YAO](https://github.com/YaoApp/yao) - 高性能应用引擎。
 - [Casdoor](https://github.com/casdoor/casdoor) - SSO 平台。
-
 - [Colly](https://github.com/gocolly/colly) - 爬虫框架。
 - [Crawlab](https://github.com/crawlab-team/crawlab) - 分布式爬虫管理平台。
 - [OpenIM](https://github.com/OpenIMSDK/Open-IM-Server) - 即时通讯 IM。
@@ -202,14 +198,12 @@
 ### 真棒
 
 - [Awesome](https://github.com/sindresorhus/awesome) - 关于各种有趣主题的精彩列表。
-
 - [PHP](https://github.com/ziadoz/awesome-php) - PHP 资源。
 - [Python](https://github.com/vinta/awesome-python) - Python 资源。
 - [Go](https://github.com/avelino/awesome-go) - Go 资源。
 - [Rust](https://github.com/rust-unofficial/awesome-rust) - Rust 资源。
 - [JavaScript](https://github.com/sorrycc/awesome-javascript) - JavaScript 资源。
 - [Node](https://github.com/sindresorhus/awesome-nodejs) - Node.js 资源。
-
 - [Vue](https://github.com/vuejs/awesome-vue) - Vue 资源。
   - [Vite](https://github.com/vitejs/awesome-vite) - Vite 相关。
   - [Nuxt](https://github.com/nuxt-community/awesome-nuxt) - Nuxt 相关。
@@ -220,7 +214,6 @@
 - [Wechat Weapp](https://github.com/justjavac/awesome-wechat-weapp) - 微信小程序。
 - [LowCode](https://github.com/taowen/awesome-lowcode) - 国内低代码平台。
 - [Jamstack](https://github.com/automata/awesome-jamstack) - Jamstack 资源。
-
 - [Docker](https://github.com/veggiemonk/awesome-docker) - Docker 资源。
   - [Compose](https://github.com/docker/awesome-compose) - Docker Compose 示例。
 - [Kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - Kubernetes 资源。
@@ -231,7 +224,6 @@
 - [Sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - 系统管理员。
 - [Test Automation](https://github.com/atinfo/awesome-test-automation) - 测试自动化。
 - [Platform Engineering](https://github.com/toptechevangelist/awesome-platform-engineering) - 平台工程。
-
 - [ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) - ChatGPT 调教。
 - [ChatGPT Prompts zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教。
 - [ChatGPT zh](https://github.com/yzfly/awesome-chatgpt-zh) - ChatGPT 中文指南。
@@ -241,10 +233,8 @@
 - [Generative AI](https://github.com/steven2358/awesome-generative-ai) - 生成式 AI。
 - [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) - 机器学习。
 - [Big Data](https://github.com/newTendermint/awesome-bigdata) - 大数据。
-
 - [Blockchain](https://github.com/chaozh/awesome-blockchain-cn) - 区块链。
 - [Solidity](https://github.com/bkrem/awesome-solidity) - 智能合约。
-
 - [Scalability](https://github.com/binhnguyennus/awesome-scalability) - 大型系统架构。
 - [Microservices](https://github.com/mfornos/awesome-microservices) - 微服务架构。
 - [Fenix](https://github.com/fenixsoft/awesome-fenix) - 凤凰架构。
@@ -255,10 +245,8 @@
 - [Guidelines](https://github.com/Kristories/awesome-guidelines) - 编码风格指南。
 - [CTO](https://github.com/kuchin/awesome-cto) - 首席技术官。
 - [Leading and Managing](https://github.com/LappleApple/awesome-leading-and-managing) - 领导力和管理。
-
 - [Remote Job](https://github.com/lukasz-madon/awesome-remote-job) - 远程工作。
 - [Resume](https://github.com/resumejob/awesome-resume) - 简历例句。
-
 - [Spider](https://github.com/facert/awesome-spider) - 爬虫集合。
 - [Health](https://github.com/kakoni/awesome-healthcare) - 医疗保健。
 
@@ -277,7 +265,6 @@
 - [SoftwareArchitect](https://github.com/justinamiller/SoftwareArchitect) - 通往软件架构师之路。
 - [design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - 大白话设计模式。
 - [DesignPatternsPHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP) - PHP 设计模式。
-
 - [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - 构建自己的 X。
 - [php-the-right-way](https://github.com/codeguy/php-the-right-way) - PHP 之道。
 - [Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python 100 天从新手到大师。
@@ -312,7 +299,6 @@
 - [IoT-Technical-Guide](https://github.com/IoT-Technology/IoT-Technical-Guide) - 物联网技术指南。
 - [LangChain-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide) - LangChain 中文入门教程。
 - [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - Prompt 指南。
-
 - [learn-to-cloud](https://github.com/learntocloud/learn-to-cloud) - 云计算基础知识。
 - [Developer-Zero-To-Mastery](https://github.com/wx-chevalier/Developer-Zero-To-Mastery) - 程序员的技术视野。
 - [hacker-laws](https://github.com/dwmkerr/hacker-laws) - 对开发人员有用的定律、理论、原则和模式。
@@ -339,11 +325,9 @@
 - [laravel-tips](https://github.com/LaravelDaily/laravel-tips) - Laravel 编程技巧。
 - [smart-contract-best-practices](https://github.com/ConsenSys/smart-contract-best-practices) - 智能合约最佳实践。
 - [restful-api-guidelines](https://github.com/zalando/restful-api-guidelines) - RESTful API 指南。
-
 - [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 前端检查清单。
 - [API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - API 安全清单。
 - [personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 个人安全清单。
-
 - [chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines) - 中文文案排版指北。
 - [document-style-guide](https://github.com/ruanyf/document-style-guide) - 中文技术文档的写作规范。
 
@@ -377,7 +361,6 @@
 - [GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 分享 GitHub 上开源项目资讯。
 - [GitHub-rank](https://github.com/jaywcjlove/github-rank) - Github 中国用户排名。
 - [GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - GitHub 中文项目排行榜。
-
 - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - GitHub 自述文件统计信息。
 - [beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - 美化 GitHub 自述文件。
 - [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 生成 GitHub 自述文件。
@@ -396,7 +379,6 @@
 - [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 面向初学者的人工智能课程。
 - [ai-edu](https://github.com/microsoft/ai-edu) - 人工智能教育资料。
 - [api-guidelines](https://github.com/microsoft/api-guidelines) - 微软 REST API 指南。
-
 - [Recommenders](https://github.com/microsoft/recommenders) - 推荐系统的最佳实践。
 - [Qlib](https://github.com/microsoft/qlib) - 面向人工智能的量化投资平台。
 - [code-with-engineering-playbook](https://github.com/microsoft/code-with-engineering-playbook) - 工程行动手册。
