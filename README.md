@@ -58,7 +58,17 @@
   - [Tabler](https://github.com/tabler/tabler) - 基于 Bootstrap 构建的 UI 工具包。
   - [MDB](https://github.com/mdbootstrap/mdb-ui-kit) - Bootstrap & Material Design UI KIT。
   - [Bootswatch](https://github.com/thomaspark/bootswatch) - Bootstrap 主题。
+- [Bulma](https://github.com/jgthms/bulma) - 基于 Flexbox 的现代 CSS 框架。
 - [Layui](https://github.com/layui/layui) - 极简模块化 Web UI 组件库。
+- [Flutter](https://github.com/flutter/flutter) - 为任何屏幕构建应用。
+- [Ionic](https://github.com/ionic-team/ionic-framework) - 跨平台应用开发领导者。
+- [Electron](https://github.com/electron/electron) - 构建跨平台桌面应用。
+- [Tauri](https://github.com/tauri-apps/tauri) - 构建桌面应用。
+
+#### JavaScript
+
+- [Svelte](https://github.com/sveltejs/svelte) - 构建用户界面的全新方法。
+- [Solid](https://github.com/solidjs/solid) - 构建用户界面的 JavaScript 库。
 
 ### 后端
 
@@ -88,6 +98,7 @@
 - [AMPHP](https://github.com/amphp/amp) - 事件驱动库。
 - [RoadRunner](https://github.com/roadrunner-server/roadrunner) - 高性能 PHP 应用服务器。
 - [FrankenPHP](https://github.com/dunglas/frankenphp) - 现代 PHP 应用服务器。
+- [ThinkPHP](https://github.com/top-think/framework) - 轻量级 PHP 框架。
 - [EasyWeChat](https://github.com/w7corp/easywechat) - WeChat SDK。
 - [Pay](https://github.com/yansongda/pay) - Pay SDK。
 - [oauth2-server](https://github.com/thephpleague/oauth2-server) - OAuth Server。
@@ -141,7 +152,6 @@
 
 - [Rust](https://github.com/rust-lang/rust) - Rust 语言。
 - [Deno](https://github.com/denoland/deno) - 简单、安全的 JavaScript 运行环境。
-- [Tauri](https://github.com/tauri-apps/tauri) - 构建桌面应用程序。
 - [Meilisearch](https://github.com/meilisearch/meilisearch) - 闪电般的搜索引擎。
 - [Rocket](https://github.com/SergioBenitez/Rocket) - 简单、快速、类型安全的 Web 框架。
 
