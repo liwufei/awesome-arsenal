@@ -11,10 +11,12 @@
   - [人工智能](#人工智能)
   - [云原生](#云原生)
   - [静态站点生成器](#静态站点生成器)
+  - [内容管理系统](#内容管理系统)
 - [资源](#资源)
   - [真棒](#真棒)
   - [书籍](#书籍)
   - [指南](#指南)
+  - [教程](#教程)
   - [面试](#面试)
   - [路线图](#路线图)
 - [科技公司](#科技公司)
@@ -119,13 +121,12 @@
 
 - [Go](https://github.com/golang/go) - Go 语言。
 - [Gin](https://github.com/gin-gonic/gin) - 最快的全功能 Web 框架。
-  - [go-eagle](https://github.com/go-eagle/eagle) - 微服务框架。
 - [go-kit](https://github.com/go-kit/kit) - 微服务的标准库。
 - [go-micro](https://github.com/go-micro/go-micro) - 微服务框架。
 - [go-kratos](https://github.com/go-kratos/kratos) - 云原生时代的终极微服务框架。
 - [go-zero](https://github.com/zeromicro/go-zero) - 带有 cli 工具的云原生微服务框架。
-  - [go-zero-looklook](https://github.com/Mikaelemmmm/go-zero-looklook) - 基于 go-zero 最佳实践项目。
 - [go-chassis](https://github.com/go-chassis/go-chassis) - 微服务开发框架。
+- [go-eagle](https://github.com/go-eagle/eagle) - 微服务框架。
 - [GoFrame](https://github.com/gogf/gf) - 模块化、高性能、企业级的应用开发框架。
 - [CloudWeGo](https://github.com/cloudwego) - 构建企业级云原生架构。
 - [Jupiter](https://github.com/douyu/jupiter) - 面向治理的微服务框架。
@@ -203,6 +204,15 @@
 - [Astro](https://github.com/withastro/astro) - 专为速度而设计的全栈 Web 框架。
 - [VitePress](https://github.com/vuejs/vitepress) - Vite & Vue 驱动的静态站点生成器。
 
+### 内容管理系统
+
+- [Strapi](https://github.com/strapi/strapi) - 领先的无头 CMS。
+- [Ghost](https://github.com/TryGhost/Ghost) - 专业发布平台。
+- [Directus](https://github.com/directus/directus) - 现代数据平台。
+- [WordPress](https://github.com/WordPress/WordPress) - 互联网上最受欢迎的 CMS。
+- [Publii](https://github.com/GetPublii/Publii) - 桌面 CMS。
+- [Builder](https://github.com/BuilderIO/builder) - 无代码可视化构建器。
+
 ## 资源
 
 ### 真棒
@@ -275,19 +285,12 @@
 - [SoftwareArchitect](https://github.com/justinamiller/SoftwareArchitect) - 通往软件架构师之路。
 - [design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - 大白话设计模式。
 - [DesignPatternsPHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP) - PHP 设计模式。
-- [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - 构建自己的 X。
 - [php-the-right-way](https://github.com/codeguy/php-the-right-way) - PHP 之道。
-- [Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python 100 天从新手到大师。
-- [ultimate-python](https://github.com/huangsam/ultimate-python) - Python 终极学习指南。
 - [GoBooks](https://github.com/dariubs/GoBooks) - Go 书籍。
 - [the-way-to-go_ZH_CN](https://github.com/unknwon/the-way-to-go_ZH_CN) - Go 入门指南。
 - [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) - Go Web 编程。
 - [gopl-zh](https://github.com/golang-china/gopl-zh) - Go 圣经。
 - [advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) - Go 高级编程。
-- [project-layout](https://github.com/golang-standards/project-layout) - Go 项目标准布局。
-- [go-backend-clean-architecture](https://github.com/amitshekhariitbhu/go-backend-clean-architecture) - Go 清洁架构。
-- [go-clean-template](https://github.com/evrone/go-clean-template) - Go 清洁模板。
-- [learning_tools](https://github.com/hwholiday/learning_tools) - Go 学习实践。
 - [GOFamily](https://github.com/shgopher/GOFamily) - Go 学习宝典。
 - [GoGuide](https://github.com/coderit666/GoGuide) - Go 学习指南。
 - [Go-SCP](https://github.com/OWASP/Go-SCP) - Go 安全编码实践。
@@ -300,12 +303,8 @@
 - [dockerlabs](https://github.com/collabnix/dockerlabs) - Docker 实践。
 - [kubernetes-handbook](https://github.com/feiskyer/kubernetes-handbook) - Kubernetes 指南。
 - [kubernetes-learning-path](https://github.com/techiescamp/kubernetes-learning-path) - Kubernetes 学习路线图。
-- [k8s-tutorials](https://github.com/guangzhengli/k8s-tutorials) - K8S 教程。
 - [CKAD-exercises](https://github.com/dgkanatsios/CKAD-exercises) - Kubernetes 认证考试课程。
-- [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - DevOps 90 天学习之旅。
 - [DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps 指南。
-- [d2l-zh](https://github.com/d2l-ai/d2l-zh) - 动手学深度学习。
-- [WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity) - WTF Solidity 极简入门。
 - [IoT-Technical-Guide](https://github.com/IoT-Technology/IoT-Technical-Guide) - 物联网技术指南。
 - [LangChain-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide) - LangChain 中文入门教程。
 - [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - Prompt 指南。
@@ -340,6 +339,21 @@
 - [personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 个人安全清单。
 - [chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines) - 中文文案排版指北。
 - [document-style-guide](https://github.com/ruanyf/document-style-guide) - 中文技术文档的写作规范。
+
+### 教程
+
+- [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - 构建自己的 X。
+- [Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python 100 天从新手到大师。
+- [ultimate-python](https://github.com/huangsam/ultimate-python) - Python 终极学习指南。
+- [d2l-zh](https://github.com/d2l-ai/d2l-zh) - 动手学深度学习。
+- [project-layout](https://github.com/golang-standards/project-layout) - Go 项目标准布局。
+- [go-clean-template](https://github.com/evrone/go-clean-template) - Go 清洁模板。
+- [go-backend-clean-architecture](https://github.com/amitshekhariitbhu/go-backend-clean-architecture) - Go 清洁架构。
+- [go-zero-looklook](https://github.com/Mikaelemmmm/go-zero-looklook) - 基于 go-zero 最佳实践项目。
+- [learning_tools](https://github.com/hwholiday/learning_tools) - Go 学习实践。
+- [k8s-tutorials](https://github.com/guangzhengli/k8s-tutorials) - K8S 教程。
+- [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - DevOps 90 天学习之旅。
+- [WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity) - WTF Solidity 极简入门。
 
 ### 面试
 
