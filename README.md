@@ -12,12 +12,14 @@
   - [云原生](#云原生)
   - [静态站点生成器](#静态站点生成器)
   - [内容管理系统](#内容管理系统)
+  - [其他](#其他)
 - [资源](#资源)
   - [真棒](#真棒)
   - [书籍](#书籍)
   - [指南](#指南)
   - [教程](#教程)
   - [面试](#面试)
+  - [备忘单](#备忘单)
   - [路线图](#路线图)
 - [科技公司](#科技公司)
   - [GitHub](#github)
@@ -66,9 +68,7 @@
 - [Ionic](https://github.com/ionic-team/ionic-framework) - 跨平台应用开发领导者。
 - [Electron](https://github.com/electron/electron) - 构建跨平台桌面应用。
 - [Tauri](https://github.com/tauri-apps/tauri) - 构建桌面应用。
-
-#### JavaScript
-
+- [Storybook](https://github.com/storybookjs/storybook) - 用于单独构建 UI 组件和页面。
 - [Svelte](https://github.com/sveltejs/svelte) - 构建用户界面的全新方法。
 - [Solid](https://github.com/solidjs/solid) - 构建用户界面的 JavaScript 库。
 
@@ -83,6 +83,7 @@
   - [laravel-modules](https://github.com/nWidart/laravel-modules) - Laravel 模块管理。
   - [laravel-stats](https://github.com/stefanzweifel/laravel-stats) - Laravel 统计。
   - [laravel-orion](https://github.com/tailflow/laravel-orion) - 创建 REST API。
+  - [laravel-kit](https://github.com/tmdh/laravel-kit) - 管理 Laravel 应用。
   - [tenancy](https://github.com/archtechx/tenancy) - 多租户。
   - [tenancy](https://github.com/tenancy/tenancy) - 多租户。
 - [Symfony](https://github.com/symfony/symfony) - 高性能 Web 框架。
@@ -155,6 +156,7 @@
 - [Deno](https://github.com/denoland/deno) - 简单、安全的 JavaScript 运行环境。
 - [Meilisearch](https://github.com/meilisearch/meilisearch) - 闪电般的搜索引擎。
 - [Rocket](https://github.com/SergioBenitez/Rocket) - 简单、快速、类型安全的 Web 框架。
+- [Lemmy](https://github.com/LemmyNet/lemmy) - 去中心化论坛。
 
 ### 算法
 
@@ -174,11 +176,16 @@
 - [OpenCV](https://github.com/opencv/opencv) - 计算机视觉库。
 - [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - 实验性应用程序，由 GPT-4 驱动。
 - [MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) - 使用高级大语言模型增强视觉语言理解。
-- [PhotoPrism](https://github.com/photoprism/photoprism) - AI 驱动的照片应用程序。
 - [RoomGPT](https://github.com/Nutlope/roomGPT) - 使用 AI 生成您的梦想房间。
+- [PhotoPrism](https://github.com/photoprism/photoprism) - AI 驱动的照片应用程序。
 - [Fay](https://github.com/TheRamU/Fay) - 数字人助理。
 - [FaceSwap](https://github.com/deepfakes/faceswap) - 换脸。
 - [Qbot](https://github.com/UFund-Me/Qbot) - 自动量化交易机器人。
+- [Jina](https://github.com/jina-ai/jina) - 使用云原生技术构建多模态 AI 服务。
+- [funNLP](https://github.com/fighting41love/funNLP) - 最全的中文 NLP 资源库。
+- [ai-collection](https://github.com/ai-collection/ai-collection) - AI 集合。
+- [gptlink](https://github.com/gptlink/gptlink) - 快速搭建可商用的 ChatGPT 站点。
+- [go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai) - 使用 Vue 和 Go 搭建的 New Bing 站点。
 
 ### 云原生
 
@@ -193,6 +200,7 @@
 - [Sealos](https://github.com/labring/sealos) - 以 kubernetes 为内核的云操作系统发行版。
 - [Erda](https://github.com/erda-project/erda) - 企业级云原生应用平台。
 - [Cloudpods](https://github.com/yunionio/cloudpods) - 云原生的融合云平台。
+- [Terraform](https://github.com/hashicorp/terraform) - 基础架构自动化。
 - [Pulumi](https://github.com/pulumi/pulumi) - 基础设施即代码。
 
 ### 静态站点生成器
@@ -212,6 +220,23 @@
 - [WordPress](https://github.com/WordPress/WordPress) - 互联网上最受欢迎的 CMS。
 - [Publii](https://github.com/GetPublii/Publii) - 桌面 CMS。
 - [Builder](https://github.com/BuilderIO/builder) - 无代码可视化构建器。
+
+### 其他
+
+- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 管理您的 Zsh 配置。
+- [Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ 流行网站的克隆。
+- [diagrams](https://github.com/mingrammer/diagrams) - 绘制云系统架构图。
+- [localstack](https://github.com/localstack/localstack) - 本地开发 Serverless 应用。
+- [nginxconfig](https://github.com/digitalocean/nginxconfig.io) - Nginx 配置生成器。
+- [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - 最全的中华古诗词数据库。
+- [countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database) - 全球国家、州和城市资料库。
+- [free-for-dev](https://github.com/ripienaar/free-for-dev) - 免费套餐。
+- [public-apis](https://github.com/public-apis/public-apis) - 公共 API。
+- [free-api](https://github.com/fangzesheng/free-api) - 免费 API。
+- [graphql-apis](https://github.com/graphql-kit/graphql-apis) - GraphQL API。
+- [TikTokDownload](https://github.com/Johnserf-Seed/TikTokDownload) - 抖音去水印视频下载。
+- [Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) - 高性能异步 抖音 | TikTok 数据爬取工具。
+- [lux](https://github.com/iawia002/lux) - 视频下载器。
 
 ## 资源
 
@@ -237,6 +262,7 @@
 - [Docker](https://github.com/veggiemonk/awesome-docker) - Docker 资源。
   - [Compose](https://github.com/docker/awesome-compose) - Docker Compose 示例。
 - [Kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - Kubernetes 资源。
+- [Cloud Native](https://github.com/rootsongjc/awesome-cloud-native) - 云原生相关。
 - [Serverless](https://github.com/anaibol/awesome-serverless) - 无服务器。
 - [Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - 服务器软件。
 - [Mac](https://github.com/jaywcjlove/awesome-mac) - macOS 软件。
@@ -258,6 +284,7 @@
 - [Scalability](https://github.com/binhnguyennus/awesome-scalability) - 大型系统架构。
 - [Microservices](https://github.com/mfornos/awesome-microservices) - 微服务架构。
 - [Fenix](https://github.com/fenixsoft/awesome-fenix) - 凤凰架构。
+- [Software Architecture](https://github.com/mehdihadeli/awesome-software-architecture) - 软件架构。
 - [RESTful API](https://github.com/marmelab/awesome-rest) - RESTful API 架构。
 - [API Devtools](https://github.com/yosriady/awesome-api-devtools) - API 开发工具。
 - [Design Patterns](https://github.com/DovAmir/awesome-design-patterns) - 软件设计模式。
@@ -305,6 +332,7 @@
 - [kubernetes-learning-path](https://github.com/techiescamp/kubernetes-learning-path) - Kubernetes 学习路线图。
 - [CKAD-exercises](https://github.com/dgkanatsios/CKAD-exercises) - Kubernetes 认证考试课程。
 - [DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps 指南。
+- [devops-exercises](https://github.com/bregman-arie/devops-exercises) - DevOps 练习。
 - [IoT-Technical-Guide](https://github.com/IoT-Technology/IoT-Technical-Guide) - 物联网技术指南。
 - [LangChain-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide) - LangChain 中文入门教程。
 - [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - Prompt 指南。
@@ -342,7 +370,9 @@
 
 ### 教程
 
+- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - 免费学习编码。
 - [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - 构建自己的 X。
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) - 基于项目的学习。
 - [Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python 100 天从新手到大师。
 - [ultimate-python](https://github.com/huangsam/ultimate-python) - Python 终极学习指南。
 - [d2l-zh](https://github.com/d2l-ai/d2l-zh) - 动手学深度学习。
@@ -351,6 +381,7 @@
 - [go-backend-clean-architecture](https://github.com/amitshekhariitbhu/go-backend-clean-architecture) - Go 清洁架构。
 - [go-zero-looklook](https://github.com/Mikaelemmmm/go-zero-looklook) - 基于 go-zero 最佳实践项目。
 - [learning_tools](https://github.com/hwholiday/learning_tools) - Go 学习实践。
+- [learngo](https://github.com/inancgumus/learngo) - 通过 1000+ 小示例来学习 Go。
 - [k8s-tutorials](https://github.com/guangzhengli/k8s-tutorials) - K8S 教程。
 - [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - DevOps 90 天学习之旅。
 - [WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity) - WTF Solidity 极简入门。
@@ -367,6 +398,12 @@
 - [PHP-Interview-QA](https://github.com/colinlet/PHP-Interview-QA) - PHP 面试问答。
 - [BAT_interviews](https://github.com/lengyue1024/BAT_interviews) - BAT 面试题。
 - [interview_internal_reference](https://github.com/0voice/interview_internal_reference) - 总结阿里、腾讯、百度、美团、头条等技术面试题目。
+
+### 备忘单
+
+- [reference](https://github.com/Fechin/reference) - 开发人员备忘单。
+- [reference](https://github.com/jaywcjlove/reference) - 开发人员备忘单中文版。
+- [python-cheatsheet](https://github.com/gto76/python-cheatsheet) - Python 备忘单。
 
 ### 路线图
 
